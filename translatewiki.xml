@@ -1,0 +1,6 @@
+<ruleset name="translatewiki">
+  <target host="www.translatewiki.net" />
+  <target host="translatewiki.net" />
+  <rule from="^http://(www\.)?translatewiki\.net/" to="https://translatewiki.net/"/>
+</ruleset>
+
