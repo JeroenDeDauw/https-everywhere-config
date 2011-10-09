@@ -1,5 +1,0 @@
-<ruleset name="mediawiki">
-  <target host="www.mediawiki.org" />
-  <target host="mediawiki.org" />
-  <rule from="^http://(www\.)?mediawiki\.org/wiki" to="https://secure.wikimedia.org/wikipedia/mediawiki/wiki"/>
-</ruleset>

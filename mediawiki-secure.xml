@@ -1,0 +1,4 @@
+<ruleset name="mwsecure">
+  <target host="secure.wikimedia.org" />
+  <rule from="^http://secure\.wikimedia\.org/wikipedia/mediawiki/" to="https://www.mediawiki.org/"/>
+</ruleset>
